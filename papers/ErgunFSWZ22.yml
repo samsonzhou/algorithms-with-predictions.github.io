@@ -1,0 +1,11 @@
+title: Learning-Augmented k-means Clustering
+authors: Ergun, Feng, Silwal, Woodruff, Zhou
+publications:
+  - year: 2022
+    month: 3
+    day: 19
+    name: arXiv
+    url: https://arxiv.org/abs/2110.14094
+labels:
+  - clustering
+  - k-means
